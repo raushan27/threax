@@ -1,6 +1,6 @@
 # Threax (An app inspired by Threads)
 
-A web application made using Next.js 13 inspired by Threads app that skyrocketed to 100 million sign-ups in less than 5 days. This web app packs more features than the Thredas itself.
+A web application made using Next.js 13 inspired by Threads app that skyrocketed to 100 million sign-ups in less than 5 days. This web app packs more features than the Threads itself.
 
 ## Table of Contents
 
@@ -17,12 +17,10 @@ Make sure you have Node.js installed on your system. If not, you can download it
 1. Clone the repository:
 
    ```bash
-   git clone
-
+   git clone https://github.com/raushan27/threax.git
    Navigate to the project directory:
 
     cd threax
-
    Install dependencies:
 
     npm install
