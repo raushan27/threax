@@ -18,15 +18,18 @@ Make sure you have Node.js installed on your system. If not, you can download it
 
    ```bash
    git clone https://github.com/raushan27/threax.git
-   Navigate to the project directory:
+   ```
+
+Navigate to the project directory:
 
     cd threax
-   Install dependencies:
+
+Install dependencies:
 
     npm install
-   Usage
-   To start the application, use the following commands:
-   ```
+
+Usage
+To start the application, use the following commands:
 
 # Start the server
 
@@ -38,14 +41,14 @@ User-friendly interface for accessing Threax app.
 
 ## Technologies
 
-TypeScript,
-Node.js,
-React.js,
-Next.js 13,
-Clerk (For auth),
-Tailswind CSS,
-MongoDB,
-Zod
+- TypeScript
+- Node.js
+- React.js
+- Next.js 13
+- Clerk (For auth)
+- Tailswind CSS
+- MongoDB
+- Zod
 
 ## Contributing
 
